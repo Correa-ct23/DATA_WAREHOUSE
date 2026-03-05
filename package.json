@@ -1,0 +1,23 @@
+{
+  "name": "inteligencianegocios",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Correa-ct23/DATA_WAREHOUSE#readme",
+  "bugs": {
+    "url": "https://github.com/Correa-ct23/DATA_WAREHOUSE/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Correa-ct23/DATA_WAREHOUSE.git"
+  },
+  "license": "ISC",
+  "author": "Camilo Brayan Jhon",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
